@@ -157,8 +157,8 @@
         }
         &-2{
           position: absolute;
-          bottom: 165px;
-          left: 340px;
+          bottom: 150px;
+          left: 397px;
           z-index: 2;
           animation: circle-animations 15s forwards infinite alternate;
           @media #{$x4l} {
